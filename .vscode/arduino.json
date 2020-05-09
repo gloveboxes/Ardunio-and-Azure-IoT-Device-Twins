@@ -1,0 +1,7 @@
+{
+    "board": "arduino:samd:mzero_pro_bl_dbg",
+    "port": "COM9",
+    "programmer": "AVRISP mkII",
+    "sketch": "Blink.ino",
+    "output": "../ArduinoOutput"
+}
